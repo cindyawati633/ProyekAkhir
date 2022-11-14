@@ -4,7 +4,7 @@ matplotlib
 jsons
 tweepy==4.12.1
 requests
-regex
+regex==2022.10.31
 string
 nltk
 scikit-learn
