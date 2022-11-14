@@ -9,7 +9,7 @@ regex==2022.10.31
 nltk
 scikit-learn
 beautifulSoup4
-oauthlib
+oauthlib==3.2.2
 OAuthHandler
 tokenizer
 FreqDist
