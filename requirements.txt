@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+json
+tweepy
+request
+re
+string
+nltk
+scikit-learn
+BeautifulSoup
+streamlit
