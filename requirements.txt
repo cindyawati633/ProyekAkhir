@@ -6,7 +6,6 @@ jsons
 tweepy==4.12.1
 requests
 regex==2022.10.31
-module
 nltk
 scikit-learn
 beautifulSoup4
@@ -25,3 +24,4 @@ classification_report
 confusion_matrix
 accuracy_score
 urlopen
+strings
