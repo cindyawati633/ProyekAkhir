@@ -9,7 +9,6 @@ regex==2022.10.31
 nltk
 scikit-learn
 beautifulSoup4
-oauthlib==3.2.2
 OAuthHandler
 tokenizer
 FreqDist
@@ -25,3 +24,4 @@ confusion_matrix
 accuracy_score
 urlopen
 strings
+oauthlib==3.2.2
