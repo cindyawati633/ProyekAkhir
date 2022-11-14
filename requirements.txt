@@ -5,7 +5,7 @@ jsons
 tweepy==4.12.1
 requests
 regex
-strings
+string
 nltk
 scikit-learn
 beautifulSoup4
