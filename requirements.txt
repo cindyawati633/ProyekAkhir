@@ -6,7 +6,7 @@ jsons
 tweepy==4.12.1
 requests
 regex==2022.10.31
-string==0.1.2
+module
 nltk
 scikit-learn
 beautifulSoup4
