@@ -12,3 +12,4 @@ beautifulSoup4
 tokenizer
 stop-words
 urlopen
+Porterstemmer
